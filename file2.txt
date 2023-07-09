@@ -2,3 +2,4 @@ Goodbye
 Some other String
 Line from User2
 Another Line from User2
+Critical bug fixed
